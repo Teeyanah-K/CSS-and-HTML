@@ -25,7 +25,7 @@
 .flex-container{display: flex;
     justify-content: center;
     align-content: center;  
-    margin: 120px 90px 0px -85px;}
+    margin: 120px 90px 0px 85px;}
 }
 body{
     background-color: hsl(0, 0%, 95%);
